@@ -1,6 +1,6 @@
 {
   "name": "beautyfiglet",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "figlet display in nodejs",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
